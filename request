@@ -1,0 +1,3 @@
+#!/bin/bash -p
+
+curl https://bohuarh1h4.execute-api.us-east-1.amazonaws.com/dev/ping
